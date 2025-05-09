@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Board">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAACAAgAAAQAAAAAAAAAEAAAAACQAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+      <NewMemberFileName>Main.cpp</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACAAAgAAAAgICAAAAAAAAAAAAAAAQAAICAgAAEAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+      <NewMemberFileName>Main.cpp</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Puzzle">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACgEAAAAAABABAAQAAAAAAQABCAoAAIAEAAAAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BoardHash">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+      <NewMemberFileName>Main.cpp</NewMemberFileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="CompareNode">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>main.cpp</FileName>
+      <NewMemberFileName>Main.cpp</NewMemberFileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
